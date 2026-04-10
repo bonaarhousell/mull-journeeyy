@@ -56,4 +56,4 @@ print(grade_cek(numbers))
 #   tetapi ketika di return, yang muncul malah dict 85 : 1 bukan "A" : 1
 #   mungkin penyebab nya di if num in grades, entah lah saya sudah mentok
 #   saya bahkan mencoba membuat list kosong dan menambahkan grade ke list tersebut
-#   agar di loop untuk ditambahkan di dictonary
+#   agar di loop untuk ditambahkan di dictonaryy
